@@ -1,0 +1,1 @@
+Projeto desenvolvido por Prof. Dr. Henrique Dezani no programa de pós-doutorado em Ciência da Computação pela Universidade Federal de São Carlos (UFSCar), sob a supervisão da profa. Dra. Helena Caseli.
